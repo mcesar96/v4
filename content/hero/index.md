@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Marcus Cesar'
+subtitle: 'I solve problems.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a software engineer based in Fort Worth, with a demonstrated history of working in the Defense industry.
