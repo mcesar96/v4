@@ -5,6 +5,7 @@ skills:
   - C
   - C++
   - Python
+  - XML (XSD) Schema
 ---
 
 Hello! I'm Marcus, a software engineer based in Fort Worth, TX who enjoys coming up with creative solutions to complex problems.
