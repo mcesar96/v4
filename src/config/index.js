@@ -6,8 +6,6 @@ module.exports = {
     'Marcus Cesar, Marcus, Cesar, mcesar96, marcuscesar, software engineer, florida state, florida state university, fsu, defense, defense industry',
   siteUrl: 'https://marcuscesar.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Marcus Cesar',
   location: 'Fort Worth, TX',
   email: 'marcuscesar1996@gmail.com',
