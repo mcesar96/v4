@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Marcus Cesar',
   location: 'Fort Worth, TX',
-  email: 'marcus.a.cesar@gmail.com',
+  email: 'marcuscesar1996@gmail.com',
   github: 'https://github.com/mcesar96',
   socialMedia: [
     {
