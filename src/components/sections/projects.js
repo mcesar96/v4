@@ -53,7 +53,7 @@ const StyledProjectInner = styled.div`
   height: 100%;
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
-  background-color: ${colors.lightNavy};
+  background-color: ${colors.darkGrey};
 `;
 const StyledProject = styled.div`
   transition: ${theme.transition};
@@ -71,7 +71,7 @@ const StyledProjectHeader = styled.div`
   margin-bottom: 30px;
 `;
 const StyledFolder = styled.div`
-  color: ${colors.green};
+  color: ${colors.purple};
   svg {
     width: 40px;
     height: 40px;

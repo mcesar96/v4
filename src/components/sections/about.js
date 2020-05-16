@@ -42,7 +42,7 @@ const Skill = styled.li`
     content: '▹';
     position: absolute;
     left: 0;
-    color: ${colors.green};
+    color: ${colors.purple};
     font-size: ${fontSizes.sm};
     line-height: 12px;
   }
@@ -71,7 +71,7 @@ const StyledAvatarLink = styled.a`
   width: 100%;
   position: relative;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.green};
+  background-color: ${colors.purple};
   margin-left: -20px;
   &:hover,
   &:focus {
@@ -100,11 +100,11 @@ const StyledAvatarLink = styled.a`
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: ${colors.navy};
+    background-color: ${colors.grey};
     mix-blend-mode: screen;
   }
   &:after {
-    border: 2px solid ${colors.green};
+    border: 2px solid ${colors.purple};
     top: 20px;
     left: 20px;
     z-index: -1;
