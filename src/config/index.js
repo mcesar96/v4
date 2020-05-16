@@ -25,6 +25,10 @@ module.exports = {
       name: 'Instagram',
       url: 'https://www.instagram.com/marcuscesar',
     },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/marcuscesar96',
+    },
   ],
 
   navLinks: [

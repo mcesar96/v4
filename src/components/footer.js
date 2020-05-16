@@ -11,7 +11,7 @@ const StyledContainer = styled.footer`
   flex-direction: column;
   padding: 15px;
   background-color: ${colors.darkNavy};
-  color: ${colors.slate};
+  color: ${colors.spray};
   text-align: center;
   height: auto;
   min-height: 70px;
@@ -43,7 +43,7 @@ const StyledMetadata = styled.div`
   line-height: 1;
 `;
 const StyledGitHubLink = styled.a`
-  color: ${colors.slate};
+  color: ${colors.spray};
   padding: 10px;
 `;
 const StyledGitHubInfo = styled.div`
@@ -104,7 +104,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/mcesar96/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Brittany Chiang</div>
