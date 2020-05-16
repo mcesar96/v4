@@ -9,6 +9,7 @@ const theme = {
     slate: '#8892b0',
     lightSlate: '#a8b2d1',
     lightestSlate: '#ccd6f6',
+    blue: '#66D9EF',
     white: '#e6f1ff',
     purple: ACCENT,
     transGreen: 'rgba(100, 255, 218, 0.07)',

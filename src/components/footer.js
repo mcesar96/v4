@@ -43,7 +43,7 @@ const StyledMetadata = styled.div`
   line-height: 1;
 `;
 const StyledGitHubLink = styled.a`
-  color: ${colors.spray};
+  color: ${colors.purple};
   padding: 10px;
 `;
 const StyledGitHubInfo = styled.div`
