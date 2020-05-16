@@ -47,27 +47,27 @@ const Loader = ({ finishLoading }) => {
       .add({
         targets: '#logo path',
         delay: 500,
-        duration: 2000,
+        duration: 0,
         easing: 'easeInOutQuart',
         strokeDashoffset: [anime.setDashoffset, 0],
       })
       .add({
         targets: '#logo #B',
-        duration: 800,
+        duration: 0,
         easing: 'easeInOutQuart',
         opacity: 1,
       })
       .add({
         targets: '#logo',
         delay: 700,
-        duration: 300,
+        duration: 0,
         easing: 'easeInOutQuart',
         opacity: 0,
         scale: 0.1,
       })
       .add({
         targets: '.loader',
-        duration: 200,
+        duration: 0,
         easing: 'easeInOutQuart',
         opacity: 0,
         zIndex: -1,
