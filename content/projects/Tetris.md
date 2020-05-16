@@ -1,6 +1,6 @@
 ---
 date: '2019-7-20'
-title: 'Tetris'
+title: 'Tetris with Sprinkles'
 github: 'https://github.com/mcesar96/donutshop'
 tech:
   - Python
