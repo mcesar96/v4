@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2019-4-28'
 title: 'Firefighting Newts'
 cover: './firefightingnewts.PNG'
 github: 'https://github.com/mcesar96/FFNewts-1'
