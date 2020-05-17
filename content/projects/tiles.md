@@ -1,11 +1,10 @@
 ---
 date: '2020-5-2'
 title: 'Terminal Tiles'
-cover: './dominoes2.png'
 github: 'https://github.com/mcesar96/dominoes_game'
 tech:
   - Python
-  - Git
+company: ' '
 showInProjects: true
 ---
 
