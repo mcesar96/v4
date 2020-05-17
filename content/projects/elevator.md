@@ -7,7 +7,6 @@ ios: ''
 android: ''
 tech:
   - C
-  - Kernel modules
   - Linux
   - Git
 company: 'Florida State University'
