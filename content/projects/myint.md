@@ -12,4 +12,4 @@ showInProjects: true
 ---
 
 An integer class that is unbound by the memory requirements of the native 32-bit `int` type.
-This class supports standard arithmetic operators as well as comparison, insertion, and incremental operator overloads
+This class supports standard arithmetic operators as well as comparison, insertion, and incremental operator overloads.

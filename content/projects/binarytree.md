@@ -8,4 +8,4 @@ company: 'Florida State University'
 showInProjects: true
 ---
 
-Implemented a generic self organizing binary search tree, which supports element insertion, deletion, search (and self-restructuring), and in-order and level-order traversals.
+Implemented a generic self organizing binary search tree, which supports element insertion, deletion, search, self-restructuring, in-order, and level-order traversals.
