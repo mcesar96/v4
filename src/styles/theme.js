@@ -1,15 +1,15 @@
-const ACCENT = '#AE81FF';
-const BG = '#282c34';
+const ACCENT = '#A1E8CC';
+const BG = '#495159';
 
 const theme = {
   colors: {
     grey: BG,
-    darkGrey: '#1c1f25',
+    darkGrey: '#24282c',
     lightestNavy: '#303C55',
-    slate: '#8892b0',
-    lightSlate: '#a8b2d1',
-    lightestSlate: '#ccd6f6',
-    blue: '#66D9EF',
+    slate: '#C5DECD',
+    lightSlate: '#E5D4C0',
+    lightestSlate: '#FAC9B8',
+    blue: '#B8F3FF',
     white: '#e6f1ff',
     purple: ACCENT,
     transGreen: 'rgba(100, 255, 218, 0.07)',
